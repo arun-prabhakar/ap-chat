@@ -13,11 +13,6 @@ export const BRANDING_URL = {
   terms: undefined,
 };
 
-export const SOCIAL_URL = {
+export const SOCIAL_URL = {};
 
-};
-
-export const BRANDING_EMAIL = {
-  business: 'no-reply@arun.im',
-  support: 'no-reply@arun.im',
-};
+export const BRANDING_EMAIL = {business: 'no-reply@arun.im',support: 'no-reply@arun.im'};
