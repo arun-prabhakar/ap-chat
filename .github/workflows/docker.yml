@@ -12,7 +12,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  REGISTRY_IMAGE: arun-prabhakar/lobe-chat
+  REGISTRY_IMAGE: ghcr.io/arun-prabhakar/lobe-chat
   PR_TAG_PREFIX: pr-
 
 jobs:
